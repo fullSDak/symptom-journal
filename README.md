@@ -2,6 +2,8 @@
 
 A mobile-friendly, patient-authored symptom journal prototype. Log fictional symptoms and dates, add optional photos or audio recordings, keep a timeline and prepare an editable summary for a conversation with a clinician. It is a rules-based journal, not an AI diagnostic tool or a monitored messaging channel.
 
+[Open the published prototype](https://symptomtrail-7gaxcggr.manus.space/) (access depends on the website's visibility setting). This repository is a separate copy; GitHub edits do not automatically update the Manus-hosted website.
+
 **Prototype only: use fictional information, not real personal information or protected health information.** It is not designed or verified for medical care, HIPAA compliance, emergencies or secure health records. Do not add intimate images. No clinician is automatically contacted.
 
 ## Problem statement
